@@ -1,0 +1,34 @@
+{
+  "info": {
+    "_postman_id": "84727790-bdc3-4227-a579-0c94b4a3b0a5",
+    "name": "Fintech Currency API Testing",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "18751555"
+  },
+  "item": [
+    {
+      "name": "GET Historical USD to INR Rate 2024",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GET Historical USD to INR latest",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GET Invalid Currency Code — Negative Test",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
